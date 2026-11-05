@@ -1,5 +1,5 @@
 pub fn level() -> u32
-ensures result == 1
+ensures returned == 1
 {
     return 1
 }
