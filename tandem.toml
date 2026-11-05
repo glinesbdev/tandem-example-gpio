@@ -1,2 +1,5 @@
 [project]
 name = "tandem_example_gpio"
+
+[package]
+name = "tandem_example_gpio"
